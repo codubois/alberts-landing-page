@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+}
+#first {
+	color: red;
+	border: 1px solid blue;
+	padding: 2px;
+	margin-bottom: 125px;
+}
+
+.multiple {
+	background-color: gray;
+}
+
+img {
+	border-top: 170px;
+}
